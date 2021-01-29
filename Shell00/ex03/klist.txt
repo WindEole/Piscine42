@@ -1,0 +1,5 @@
+Credentials cache: API:88C0AEA2-1359-4715-908F-95612E14942A
+        Principal: iderighe@42.FR
+
+  Issued                Expires               Principal
+Sep 11 10:49:23 2020  Sep 18 10:49:11 2020  krbtgt/42.FR@42.FR
